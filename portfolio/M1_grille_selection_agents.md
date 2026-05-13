@@ -16,7 +16,7 @@ _(Décrivez brièvement la PME : secteur, maturité numérique, budget IA approx
 
 | Critère | Brex | Salesforce Einstein | Microsoft Copilot 365 |
 |---|---|---|---|
-| **1. Rôle spécialisé orchestré** _(nommez le spécialiste que l'agent remplace/augmente)_ | | | |
+| **1. Rôle spécialisé orchestré** _(nommez le spécialiste que l'agent remplace/augmente)_ |Agent CFO|Agent de vente/décision CRM et|agent de productivité|
 | **2. Impact d'affaires** _(1-5 + justification en 1 phrase)_ | | | |
 | **3. Faisabilité PME** _(1-5 + données, compétences, intégration)_ | | | |
 | **4. Coût estimé** _(ordre de grandeur annuel + TCO si pertinent)_ | | | |
